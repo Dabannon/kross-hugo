@@ -2,7 +2,7 @@ baseURL = "https://dabannon.netlify.com"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "Kross"
+title = "David-Alexandre Bannon | UX/UI Designer"
 [[menu.main]]
 URL = "about"
 name = "About"
